@@ -1,0 +1,16 @@
+#heading{
+    width: 100%;
+}
+
+.modal-body{
+    color: lavender;
+    background-color: black;
+}
+
+#instructions{
+    float: right;
+}
+
+canvas{
+margin-top: 50px;
+}
